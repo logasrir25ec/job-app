@@ -1,0 +1,7 @@
+{
+  "name": "EnggJobs",
+  "description": "Discover and track top job opportunities across Core Engineering (VLSI, Embedded, Robotics, Electrical, Mechanical) and Software Engineering with smart skill matching and interview tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
